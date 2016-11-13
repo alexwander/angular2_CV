@@ -1,3 +1,18 @@
-<p>
-  contact works!
-</p>
+<div class="row">
+	<div class="col-md-4 col-md-offset-4">
+		<div class="panel panel-default"> 
+			<div class="panel-heading panel-primary"> 
+				<h1> contact </h1>
+			</div>
+			<div class="panel-body">
+
+					<h4>{{user.name}} {{user.lastname}} </h4><br>
+					<strong> email: </strong> <a href="mailto:{{user.contact.email}}">{{user.contact.email}} </a><br>
+					<strong> phone: </strong> {{user.contact.phone}}<br>	
+					<strong> location: </strong> {{user.contact.city}}				
+					
+			</div>
+		</div>
+	</div>
+</div>
+

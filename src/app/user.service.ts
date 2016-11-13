@@ -14,15 +14,24 @@ export class UserService {
 		  	 		main: 'https://static.pexels.com/photos/36753/flower-purple-lical-blosso.jpg',
 		  	},
 
+		  	contact: {
+
+		  		email: 'katrina.hitchcock@gmail.com',
+		  		phone: '+45 XXXX XXXX',
+		  		city: 'Copenhagen, Denmark', 
+
+		  	},
+
 	  	 	social: {
-	  	 		twitter: 'LinkedIn',
+	  	 		linkedin: 'LinkedIn',
 	  	 	},
 	  	 	skills: [
-		  	 	{ name: 'HTML', rank: 5},
-		  	 	{ name: 'CSS', rank: 5},
+		  	 	{ name: 'HTML', rank: 4},
+		  	 	{ name: 'CSS', rank: 4},
 		  	 	{ name: 'JavaScipt', rank: 4},
-		  	 	{ name: 'NodeJS', rank: 3},
-		  	 	{ name: 'Angular2', rank: 2},		  			  	 			  	 		
+		  	 	{ name: 'NodeJS', rank: 2},
+		  	 	{ name: 'Angular2', rank: 2},	
+		  	 	{ name: 'Java', rank: 3},	  			  	 			  	 		
 	  	 	]
 	};
 
