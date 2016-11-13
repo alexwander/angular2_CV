@@ -11,7 +11,7 @@ export class UserService {
 			description: 'I am a Computer Science student with experience in Agile methodologies such as UP, Scrum and XP. I have worked with Software Development using Java and Web Development using C# ASP.NET MVC, Node.js and Angular 2. I am mainly interested in developing skills in Web Development.',
 
 	  	 	pictures:{
-		  	 		main: 'http://placehold.it/350x150',
+		  	 		main: 'https://static.pexels.com/photos/36753/flower-purple-lical-blosso.jpg',
 		  	},
 
 	  	 	social: {
@@ -20,7 +20,7 @@ export class UserService {
 	  	 	skills: [
 		  	 	{ name: 'HTML', rank: 5},
 		  	 	{ name: 'CSS', rank: 5},
-		  	 	{ name: 'JavaScipt', rank: 5},
+		  	 	{ name: 'JavaScipt', rank: 4},
 		  	 	{ name: 'NodeJS', rank: 3},
 		  	 	{ name: 'Angular2', rank: 2},		  			  	 			  	 		
 	  	 	]
