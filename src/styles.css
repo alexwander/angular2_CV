@@ -1,7 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+.navbar-default {
+  background-color:black;
+  
+ }
 
-body {
-	background-color: white;
+.navbar {
+  .navbar-inner {
+    background-color:teal;
+   
+  }
+}
+
+/* navbar */
+.navbar-fixed-bottom {
+    background-color:black;
+    
+    
+    height: 10px;
+    
+
+   
+    
+}
+
+.navbar-text {
+	 	
+	 padding-bottom: 40px;
+  
+  
+    
 }
 
 .pointer{

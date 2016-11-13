@@ -13,6 +13,8 @@ export class UserService {
 			homedescription: 'this is home descirption',
 	  	 	pictures:{
 		  	 		main: 'https://static.pexels.com/photos/36753/flower-purple-lical-blosso.jpg',
+		  	 		aboutpic: 'https://d2t0avdreobd8d.cloudfront.net/media//catalog/product/cache/x800/56/4/56-4-101X.jpg',
+		  	 		signature: 'https://static.pexels.com/photos/36753/flower-purple-lical-blosso.jpg',
 		  	},
 
 		  	contact: {
