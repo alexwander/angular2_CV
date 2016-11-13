@@ -9,19 +9,21 @@ import {routes} from './app.router';
 //loading components
 import { AppComponent } from './app.component';
 import { AboutComponent } from './about/about.component';
-import { ServicesComponent } from './services/services.component';
+import { SkillsComponent } from './skills/skills.component';
 import { ContactComponent } from './contact/contact.component';
 
 //loading service
 
 import {UserService}  from './user.service';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     AboutComponent,
-    ServicesComponent,
+    SkillsComponent,
     ContactComponent,
+   
 
   ],
   imports: [
