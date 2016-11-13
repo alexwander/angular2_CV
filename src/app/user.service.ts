@@ -10,6 +10,7 @@ export class UserService {
 			birthdate: '28/2/82',
 			description: 'I am a Computer Science student with experience in Agile methodologies such as UP, Scrum and XP. I have worked with Software Development using Java and Web Development using C# ASP.NET MVC, Node.js and Angular 2. I am mainly interested in developing skills in Web Development.',
 
+			homedescription: 'this is home descirption',
 	  	 	pictures:{
 		  	 		main: 'https://static.pexels.com/photos/36753/flower-purple-lical-blosso.jpg',
 		  	},

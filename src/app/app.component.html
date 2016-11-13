@@ -18,6 +18,10 @@
       <ul class="nav navbar-nav">
 
             <li>
+              <a routerLink="home">Home</a>
+            </li>
+
+            <li>
               <a routerLink="about">About</a>
             </li>
 
@@ -32,9 +36,17 @@
 
     </div>
   </div>
-</div>
-
-  <div class ="containter">
+</div>  
+  <div class ="containter-fluid">
   <router-outlet></router-outlet>
   </div>
+<nav class="navbar navbar-inverse navbar-fixed-bottom">
+  <div class="container">
+    <p class="navbar-text"> version 1.0 </p> 
+    <p class="navbar-text navbar-right">  katrina.hitchcock@gmail.com</p> 
+
+  </div>
+</nav>   
+         
+
 </body>
