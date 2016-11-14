@@ -8,7 +8,6 @@ import {routes} from './app.router';
 
 //loading components
 import { AppComponent } from './app.component';
-import { FooterComponent } from './footer/footer.component';
 import { AboutComponent } from './about/about.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ContactComponent } from './contact/contact.component';
@@ -25,7 +24,7 @@ import {UserService}  from './user.service';
     AboutComponent,
     SkillsComponent,
     ContactComponent,
-    FooterComponent,
+   
    
 
   ],
